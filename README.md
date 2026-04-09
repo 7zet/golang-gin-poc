@@ -2,7 +2,7 @@
 
 ## Go Module Init
 ```bash
-go mod init gitlab.com/pragmaticreviews/golang-gin-poc
+go mod init github.com/7zet/golang-gin-poc
 ```
 
 ## Gin-Gonic library: github.com/gin-gonic/gin
